@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35fbc91a8b7684d44a9eb020c3df0302, type: 3}
+  m_Name: Beat 2
+  m_EditorClassIdentifier: 
+  name: Beat 2
+  cardType: Beat
+  image: {fileID: 21300000, guid: 43220594ec8b7754cad273b7cdca5d5d, type: 3}
+  audio: {fileID: 8300000, guid: 6afe1a5e1e47b9642a102df9426a206a, type: 3}
+  specific: 

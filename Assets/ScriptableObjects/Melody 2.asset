@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b45207aa3f027af4ba565709c8a56eac, type: 3}
+  m_Name: Melody 2
+  m_EditorClassIdentifier: 
+  name: Melody 2
+  cardType: Melody
+  image: {fileID: 21300000, guid: 515eaee17357e6d499d4ed49466c4e11, type: 3}
+  audio: {fileID: 8300000, guid: c482b1902d808bd4283ade6530b250d2, type: 3}
+  specific: 
