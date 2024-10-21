@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../../DJTaskManager_WwiseProject</ProjectRoot>
+		<SourceFilesRoot>../../../../../DJTaskManager_WwiseProject/.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../DJTaskManager_WwiseProject/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="2228651116" Type="User" Language="SFX" Hash="{76D19305-0E43-62BE-82C6-E5E7C8F81B83}">
+			<ShortName>Main_SoundBank</ShortName>
+			<Path>Main_SoundBank.bnk</Path>
+			<Media>
+				<File Id="606610052" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>a.wav</ShortName>
+					<CachePath>SFX/a_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="603937113" Name="Play_Alarm" DurationType="OneShot" DurationMin="3.7833333" DurationMax="3.7833333">
+					<MediaRefs>
+						<MediaRef Id="606610052"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{98EA5318-95FC-3934-952E-C1CF1839ACE5}</FileHash>
+</SoundBanksInfo>

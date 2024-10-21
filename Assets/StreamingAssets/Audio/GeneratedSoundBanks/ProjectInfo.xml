@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="DJTaskManager_WwiseProject" GUID="{D3566081-A7AC-4EF9-8B0D-FDB5B32B2985}" Generator="2023.1.7.8574"/>
+	<CacheRoot>../../../../DJTaskManager_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{37F179D0-9BE7-47EE-B61E-03788A513429}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="Mac"/>
+		<Platform Name="Windows" GUID="{1339E34B-C4DA-4BE1-A374-77A56DC7987E}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{28966F5D-8BF0-4FF0-9B78-8D675DDAFB7E}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{3CCE72B6-506B-AC3C-38CF-DD9D76C74EB3}</FileHash>
+</ProjectInfo>

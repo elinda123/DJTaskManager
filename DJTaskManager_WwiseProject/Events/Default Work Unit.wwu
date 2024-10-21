@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DDF40936-9EC7-4B2C-9A2C-6E35C671D9F4}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{DDF40936-9EC7-4B2C-9A2C-6E35C671D9F4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Alarm" ID="{5D77C6A5-666B-4BD2-B37A-2250F442C0A7}">
+					<ChildrenList>
+						<Action Name="" ID="{ACBE2470-FA10-4325-8403-0AAB9CBF6AD7}" ShortID="1055992858">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Alarm" ID="{2CA5D92F-F435-4B2B-A155-B2C66C078B96}" WorkUnitID="{C73EFA5B-F463-4628-965C-F60E94E35D92}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

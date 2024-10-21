@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C73EFA5B-F463-4628-965C-F60E94E35D92}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{C73EFA5B-F463-4628-965C-F60E94E35D92}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Alarm" ID="{2CA5D92F-F435-4B2B-A155-B2C66C078B96}" ShortID="98182481">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{74647F8D-8F4A-41C0-A483-671EB4EECA08}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{28CED8F4-776A-486B-888D-77DCA2F6834A}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="a" ID="{010C27DA-6722-44DB-AB62-CDF6969838DB}">
+							<Language>SFX</Language>
+							<AudioFile>a.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="606610052"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="a" ID="{010C27DA-6722-44DB-AB62-CDF6969838DB}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

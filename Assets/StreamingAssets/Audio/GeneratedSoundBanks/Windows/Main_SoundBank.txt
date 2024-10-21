@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	603937113	Play_Alarm			\Default Work Unit\Play_Alarm	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	606610052	Alarm	D:\Github\DJTaskManager\DJTaskManager_WwiseProject\.cache\Windows\SFX\a_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Alarm		667476
+
